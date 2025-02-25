@@ -256,7 +256,7 @@ button {
     justify-content: center;
     align-items: center;
     background-color: transparent;
-    border-color: transparent;
+    border-style: none;
     font-family: "Bebas Neue", sans-serif;
     font-size: 20px;
     color: #EB5428;
@@ -645,7 +645,7 @@ footer p {
 
     #connect {
         order: 1;
-        align-items: top;
+        align-items: start;
     }
 
     #social h3 {
